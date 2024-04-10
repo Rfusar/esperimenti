@@ -1,0 +1,204 @@
+luogo ---> Attico via Cascina Borella, Ornago
+prezzo ---> € 399.000
+link ---> https://www.immobiliare.it/annunci/97851494/
+	dettaglio0 ---> 5 locali
+	dettaglio1 ---> 285 m²
+	dettaglio2 ---> 3 bagni
+	dettaglio3 ---> Piano 1
+	dettaglio4 ---> No Ascensore
+	dettaglio5 ---> Balcone
+	dettaglio6 ---> Terrazzo
+
+
+luogo ---> Villa unifamiliare via Giovanni Pascoli, Centro, Ornago
+prezzo ---> € 495.000
+link ---> https://www.immobiliare.it/annunci/110740147/
+	dettaglio0 ---> 5+ locali
+	dettaglio1 ---> 265 m²
+	dettaglio2 ---> 3 bagni
+	dettaglio3 ---> No Ascensore
+	dettaglio4 ---> Balcone
+	dettaglio5 ---> Parzialmente Arredato
+	dettaglio6 ---> Cantina
+
+
+luogo ---> Villa a schiera via Giovanni Pascoli, Centro, Ornago
+prezzo ---> € 279.000
+link ---> https://www.immobiliare.it/annunci/109410135/
+	dettaglio0 ---> 4 locali
+	dettaglio1 ---> 178 m²
+	dettaglio2 ---> 3 bagni
+	dettaglio3 ---> No Ascensore
+	dettaglio4 ---> Balcone
+	dettaglio5 ---> Cantina
+
+
+luogo ---> Appartamento via Eroi 2/C, Centro, Ornago
+prezzo ---> € 260.000
+link ---> https://www.immobiliare.it/annunci/108754947/
+	dettaglio0 ---> 5 locali
+	dettaglio1 ---> 170 m²
+	dettaglio2 ---> 2 bagni
+	dettaglio3 ---> Piano 4 - 5
+	dettaglio4 ---> Ascensore
+	dettaglio5 ---> Balcone
+	dettaglio6 ---> Terrazzo
+	dettaglio7 ---> Parzialmente Arredato
+	dettaglio8 ---> 
+
+
+luogo ---> Villa a schiera 4 locali, buono stato, Centro, Ornago
+prezzo ---> € 268.000
+link ---> https://www.immobiliare.it/annunci/105904167/
+	dettaglio0 ---> 4 locali
+	dettaglio1 ---> 200 m²
+	dettaglio2 ---> 3 bagni
+	dettaglio3 ---> No Ascensore
+	dettaglio4 ---> Balcone
+	dettaglio5 ---> Cantina
+
+
+luogo ---> Quadrilocale via Tenaglie, Centro, Ornago
+prezzo ---> € 289.000
+link ---> https://www.immobiliare.it/annunci/109511947/
+	dettaglio0 ---> 4 locali
+	dettaglio1 ---> 130 m²
+	dettaglio2 ---> 2 bagni
+	dettaglio3 ---> Piano T
+	dettaglio4 ---> Ascensore
+	dettaglio5 ---> Terrazzo
+	dettaglio6 ---> Cantina
+
+
+luogo ---> Appartamento all'asta via Cavenago, 2, Ornago
+prezzo ---> da € 196.168,00
+link ---> https://www.immobiliare.it/annunci/109930093/
+	dettaglio0 ---> 5 locali
+	dettaglio1 ---> 19/04/2024
+	dettaglio2 ---> 286 m²
+	dettaglio3 ---> Piano T
+	dettaglio4 ---> No Ascensore
+
+
+luogo ---> Quadrilocale via Giovanni Falcone, Centro, Ornago
+prezzo ---> € 280.000
+link ---> https://www.immobiliare.it/annunci/107274273/
+	dettaglio0 ---> 4 locali
+	dettaglio1 ---> 159 m²
+	dettaglio2 ---> 2 bagni
+	dettaglio3 ---> Piano 1 - 2
+	dettaglio4 ---> No Ascensore
+	dettaglio5 ---> Balcone
+	dettaglio6 ---> Terrazzo
+
+
+luogo ---> Quadrilocale via Giovanni Falcone, Centro, Ornago
+prezzo ---> € 285.000
+link ---> https://www.immobiliare.it/annunci/107279185/
+	dettaglio0 ---> 4 locali
+	dettaglio1 ---> 160 m²
+	dettaglio2 ---> 2 bagni
+	dettaglio3 ---> Piano 1 - 2
+	dettaglio4 ---> No Ascensore
+	dettaglio5 ---> Balcone
+	dettaglio6 ---> Terrazzo
+
+
+luogo ---> Quadrilocale via Giovanni Falcone, Centro, Ornago
+prezzo ---> € 320.000
+link ---> https://www.immobiliare.it/annunci/110231925/
+	dettaglio0 ---> 4 locali
+	dettaglio1 ---> 169 m²
+	dettaglio2 ---> 2 bagni
+	dettaglio3 ---> No Ascensore
+	dettaglio4 ---> Balcone
+	dettaglio5 ---> Terrazzo
+	dettaglio6 ---> Cantina
+
+
+luogo ---> Villa plurifamiliare via Cascina Rossino 30, Cascina Rossino, Ornago
+prezzo ---> € 295.000
+link ---> https://www.immobiliare.it/annunci/73887206/
+	dettaglio0 ---> 5 locali
+	dettaglio1 ---> 150 m²
+	dettaglio2 ---> 3 bagni
+	dettaglio3 ---> No Ascensore
+	dettaglio4 ---> Balcone
+	dettaglio5 ---> Parzialmente Arredato
+	dettaglio6 ---> Cantina
+
+
+luogo ---> Terratetto unifamiliare via Roma 24, Centro, Ornago
+prezzo ---> € 285.000
+link ---> https://www.immobiliare.it/annunci/110183019/
+	dettaglio0 ---> 4 locali
+	dettaglio1 ---> 164 m²
+	dettaglio2 ---> 2 bagni
+	dettaglio3 ---> No Ascensore
+	dettaglio4 ---> Balcone
+	dettaglio5 ---> Cantina
+
+
+luogo ---> Quadrilocale via Giovanni Falcone, Centro, Ornago
+prezzo ---> € 290.000
+link ---> https://www.immobiliare.it/annunci/107273929/
+	dettaglio0 ---> 4 locali
+	dettaglio1 ---> 169 m²
+	dettaglio2 ---> Piano 1 - 2
+	dettaglio3 ---> No Ascensore
+
+
+luogo ---> Appartamento all'asta via Cavenago, Ornago
+prezzo ---> da € 196.168,50
+link ---> https://www.immobiliare.it/annunci/109630993/
+	dettaglio0 ---> 5 locali
+	dettaglio1 ---> 138 m²
+	dettaglio2 ---> Piano 1
+	dettaglio3 ---> Ascensore
+	dettaglio4 ---> Balcone
+	dettaglio5 ---> Terrazzo
+
+
+luogo ---> Quadrilocale via Giovanni Pascoli, Centro, Ornago
+prezzo ---> € 530.000
+link ---> https://www.immobiliare.it/annunci/106292283/
+	dettaglio0 ---> 4 locali
+	dettaglio1 ---> 300 m²
+	dettaglio2 ---> 3+ bagni
+	dettaglio3 ---> Piano T
+	dettaglio4 ---> No Ascensore
+	dettaglio5 ---> Balcone
+	dettaglio6 ---> Cantina
+
+
+luogo ---> Quadrilocale via Cascina Borella, Ornago
+prezzo ---> € 289.000
+link ---> https://www.immobiliare.it/annunci/85837538/
+	dettaglio0 ---> 4 locali
+	dettaglio1 ---> 146 m²
+	dettaglio2 ---> 3 bagni
+	dettaglio3 ---> Piano 1 - 2
+	dettaglio4 ---> No Ascensore
+	dettaglio5 ---> Balcone
+	dettaglio6 ---> Terrazzo
+
+
+luogo ---> Villa bifamiliare via Pascoli, 20, Centro, Ornago
+prezzo ---> € 245.000
+link ---> https://www.immobiliare.it/annunci/110691615/
+	dettaglio0 ---> 5 locali
+	dettaglio1 ---> 220 m²
+	dettaglio2 ---> 2 bagni
+	dettaglio3 ---> Ascensore
+	dettaglio4 ---> Balcone
+	dettaglio5 ---> Cantina
+
+
+luogo ---> Rustico via nobili, Centro, Ornago
+prezzo ---> € 69.500
+link ---> https://www.immobiliare.it/annunci/102345616/
+	dettaglio0 ---> 4 locali
+	dettaglio1 ---> 117 m²
+	dettaglio2 ---> No Ascensore
+
+
